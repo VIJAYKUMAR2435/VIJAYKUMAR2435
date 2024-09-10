@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar2435&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar2435" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Competitive Programming along with Mern stack in dev**
 
 - 📫 How to reach me **vijaykumar993940@gmail.com**
 
-- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/190hB5AbKxqPSObtkOpaIoEH8AtA86bAl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190hB5AbKxqPSObtkOpaIoEH8AtA86bAl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/vijay-kumar-2a9590201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-2a9590201" height="30" width="40" /></a>
 <a href="https://fb.com/vijaykumajc9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vijaykumajc9f" height="30" width="40" /></a>
 <a href="https://instagram.com/krvijay_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krvijay_32" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vijay_kumar9939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijay_kumar9939" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/vijaykumajc9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vijaykumajc9f" height="30" width="40" /></a>
 </p>
 
