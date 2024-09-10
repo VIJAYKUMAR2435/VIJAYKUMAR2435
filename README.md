@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vijaykumar993940@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WJ4OjDgr-q7dgFav5x4JU0LFKIPM4A1K/view?usp=sharing](https://drive.google.com/file/d/1WJ4OjDgr-q7dgFav5x4JU0LFKIPM4A1K/view?usp=sharing)
+- 📄 Know about my experiences-[https://drive.google.com/file/d/190hB5AbKxqPSObtkOpaIoEH8AtA86bAl/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
